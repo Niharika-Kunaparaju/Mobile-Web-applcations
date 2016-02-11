@@ -1,0 +1,29 @@
+<style type="text/css">
+	.CWTable{ 
+		display: table;
+		border-collapse:separate;
+		border-spacing:30px;
+	}
+	.CWTableRow{ 
+		display: table-row;
+	}
+	.CWTableHead{ 
+		display: table-cell;
+		background-color:#ccc;
+		padding: 3px 10px;
+		border: 1px solid #999999;
+	}
+	.CWTableCell{ 
+		display: table-cell;
+		background-color:#eeeeee;	
+		padding: 3px 10px;
+		border: 1px solid #999999;
+	}
+	.pgBorder{
+		margin-top: 15px;
+  		margin-bottom: 15px;
+    	margin-right: 15px;
+    	margin-left: 15px;
+	}
+	
+</style>

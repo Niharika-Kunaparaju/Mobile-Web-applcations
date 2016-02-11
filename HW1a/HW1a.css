@@ -1,0 +1,75 @@
+<style type="text/css">
+div {
+    display: block;
+}
+
+#nav {
+    height:100%;
+    width:70%;
+    float:left;
+    padding:1.5%;	      
+}
+
+#nav1 {
+    height:100%;
+    width:30%;
+    float:left;
+    padding:1.5%;	      
+}
+
+#nav2 {
+    height:100%;
+    width:60%;
+    float:left;
+    padding:1.5%;	      
+}
+
+#section {
+
+	height:100%;
+    width:15%;
+    float:left;
+    padding:1.5%;	 	 
+}
+
+p{
+	font-family:Georgia;
+	font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+h3{
+	font-family:Georgia;
+	font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.pgBorder{
+		margin-top: 25px;
+  		margin-bottom: 25px;
+    	margin-right: 25px;
+    	margin-left: 25px;
+	}
+	
+.CWTable{ 
+		display: table;
+		border-collapse:collapse;
+		border-spacing:30px;
+	}
+	.CWTableRow{ 
+		display: table-row;
+	}
+	.CWTableHead{ 
+		display: table-cell;
+		background-color:#ccc;
+		padding: 3px 10px;
+		border: 1px solid #999999;
+	}
+	.CWTableCell{ 
+		display: table-cell;	
+		padding: 3px 10px;
+		border: 1px solid #999999;
+	}
+</style>
